@@ -1,0 +1,23 @@
+{
+  "name": "localip",
+  "authors": [
+    "sushant <sushantt2099@gmail.com>"
+  ],
+  "description": "find your local ip using webrtc",
+  "main": "local_ip.js",
+  "keywords": [
+    "local",
+    "ip",
+    "webrtc",
+    "html5"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
